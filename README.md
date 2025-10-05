@@ -1,2 +1,2 @@
 # aretninesocialinfowebsite
-Simple websites about my socials
+Extremely simple website of information about my socials shown on my guns.lol page.
